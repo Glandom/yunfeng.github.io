@@ -1,0 +1,24 @@
+.head {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 40px;
+}
+.head img {
+  width: 80px;
+  height: 80px;
+}
+.content {
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 15px;
+  line-height: 1.7;
+}
+.foot {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 40px;
+  font-size: 12px;
+}
+.foot a {
+  text-decoration: none;
+}
